@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build and test output
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Runtime logs
+*.log
+logs/
+
+# Generated crawler output
+report.json
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Local development instructions and tooling
+.codex/
+AGENTS.md
+selfnotes.md

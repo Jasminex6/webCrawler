@@ -2,6 +2,8 @@
 
 A small TypeScript crawler built while working through Boot.dev's Web Crawler project.
 
+![Crawler control flow](docs/crawler-flow.png)
+
 ## Requirements
 
 - Node.js 22 (see `.nvmrc`)

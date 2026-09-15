@@ -31,3 +31,4 @@ Thumbs.db
 .codex/
 AGENTS.md
 selfnotes.md
+/src/playground.ts

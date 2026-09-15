@@ -1,6 +1,6 @@
 # Web Crawler
 
-A small TypeScript crawler built while working through Boot.dev's Web Crawler project. It crawls pages on one hostname, extracts each page's heading, first paragraph, links, and images, then writes the results to `report.json`.
+A small TypeScript crawler built while working through Boot.dev's Web Crawler project.
 
 ## Requirements
 
